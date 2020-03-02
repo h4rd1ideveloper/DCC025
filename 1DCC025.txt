@@ -1,0 +1,7 @@
+Paradigma Estruturado
+
+Desvantagens.
+Foco principal nas funçoes, imformaçoes desagrupadas, ideias e necessidades dos usuario nao ficam claras, horas infindaveis de manutenção corretiva.
+
+Vantagens.
+Simplicidade de termos, Facilidades de aprendizado(utilizado nas primeiras aulas).
